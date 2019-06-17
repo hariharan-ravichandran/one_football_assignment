@@ -1,0 +1,266 @@
+Aaron Ramsey; 28; Arsenal
+Abel Ruiz; 19; Barcelona
+Adrian De La Fuente; 20; Real Madrid
+Ainsley Maitland-Niles; 21; Arsenal
+Alex Iwobi; 23; Arsenal
+Alexandre Lacazette; 28; Arsenal
+Alexis Sanchez; 30; Manchester United
+Alphonse Areola; 26; France
+Alphonso Davies; 18; Bayern Munich
+Alvaro Morata; 26; Spain
+Alvaro Odriozola; 23; Real Madrid
+Ander Herrera; 29; Manchester United
+Andreas Christensen; 23; Chelsea
+Andreas Pereira; 23; Manchester United
+Angel Gomes; 18; Manchester United
+Anthony Martial; 23; Manchester United
+Antoine Griezmann; 28; France
+Antonio Rüdiger; 26; Chelsea
+Arjen Robben; 35; Bayern Munich
+Arthur; 22; Barcelona
+Arturo Vidal; 32; Barcelona
+Ashley Young; 33; Manchester United
+Benjamin Chilwell; 22; England
+Benjamin Pavard; 23; France
+Bernd Leno; 27; Arsenal
+Blaise Matuidi; 32; France
+Brahim Diaz; 19; Real Madrid
+Bukayo Saka; 17; Arsenal
+Callum Hudson-Odoi; 18; Chelsea
+Callum Wilson; 27; England
+Carl Jenkinson; 27; Arsenal
+Carles Alena; 21; Barcelona
+Carles Pérez; 21; Barcelona
+Casemiro; 27; Real Madrid
+Cesar Azpilicueta; 29; Chelsea
+Charlie Gilmour; 20; Arsenal
+Chris Smalling; 29; Manchester United
+Christian Früchtl; 19; Bayern Munich
+Chumi; 20; Barcelona
+Clement Lenglet; 24; Barcelona, France
+Conor Gallagher; 19; Chelsea
+Corentin Tolisso; 24; Bayern Munich
+Cristo Gonzalez; 21; Real Madrid
+Dani Carvajal; 27; Real Madrid, Spain
+Dani Ceballos; 22; Real Madrid
+Dani Parejo; 30; Spain
+Daniel Drinkwater; 29; Chelsea
+Daniel James; 21; Manchester United
+Danny Rose; 28; England
+Danny Welbeck; 28; Arsenal
+David Alaba; 26; Bayern Munich
+David De Gea; 28; Manchester United, Spain
+David Luiz; 32; Chelsea
+Davide Zappacosta; 27; Chelsea
+Declan Rice; 20; England
+Dejan Iliev; 24; Arsenal
+Dele Alli; 23; England
+Denis Suarez; 25; Arsenal
+Diego Llorente; 25; Spain
+Diogo Dalot; 20; Manchester United
+Douglas; 28; Barcelona
+Eden Hazard; 28; Chelsea
+Edward Nketiah; 20; Arsenal
+Elneny Mohamed; 26; Arsenal
+Emerson; 24; Chelsea
+Eric Bailly; 25; Manchester United
+Eric Dier; 25; England
+Ethan Ampadu; 18; Chelsea
+Fabian Delph; 29; England
+Fabian Ruiz Pena; 23; Spain
+Federico Valverde; 20; Real Madrid
+Ferland Mendy; 24; France
+Florian Thauvin; 26; France
+Fran García; 19; Real Madrid
+Franchu; 21; Real Madrid
+Franck Ribery; 36; Bayern Munich
+Fred; 26; Manchester United
+Gareth Bale; 29; Real Madrid
+Gary Cahill; 33; Chelsea
+George McEachran; 18; Chelsea
+Gerard Pique; 32; Barcelona
+Gonzalo Higuain; 31; Chelsea
+Granit Xhaka; 26; Arsenal
+Guillem Jaime; 20; Barcelona
+Harry Kane; 25; England
+Harry Maguire; 26; England
+Hector Bellerin; 24; Arsenal
+Henrikh Mkhitaryan; 30; Arsenal
+Hugo Lloris; 32; France
+Iago Aspas; 31; Spain
+Ike Ugbo; 20; Chelsea
+Ilkay Gündogan; 28; Germany
+Inaki Pena; 20; Barcelona
+Inigo Martinez; 28; Spain
+Isco; 27; Real Madrid, Spain
+Ivan Rakitic; 31; Barcelona
+Jack Butland; 26; England
+Jadon Sancho; 19; England
+Jaime Seoane; 22; Real Madrid
+James Garner; 18; Manchester United
+James Rodriguez; 27; Bayern Munich
+Jamie Cumming; 19; Chelsea
+Jasper Cillessen; 30; Barcelona
+Jaume Grau; 22; Real Madrid
+Javi Martinez; 30; Bayern Munich
+Javi Sanchez; 22; Real Madrid
+Jean Todibo; 19; Barcelona
+Jeison Murillo; 27; Barcelona
+Jeong Woo-Yeong; 19; Bayern Munich
+Jesse Lingard; 26; Manchester United, England
+Jesus Navas; 33; Spain
+Jesus Vallejo; 22; Real Madrid
+John Stones; 25; England
+Jokin Ezkieta; 22; Barcelona
+Jonas Hector; 29; Germany
+Jonathan Meier; 19; Bayern Munich
+Jonathan Tah; 23; Germany
+Jordan Henderson; 29; England
+Jordan Pickford; 25; England
+Jordi Alba; 30; Barcelona, Spain
+Jordi Osei-Tutu; 20; Arsenal
+Jorge Cuenca; 19; Barcelona
+Jorginho; 27; Chelsea
+Jose Gaya; 24; Spain
+Joseph Gomez; 22; England
+Joseph Willock; 19; Arsenal
+Joshua Kimmich; 24; Bayern Munich, Germany
+Joshua Zirkzee; 18; Bayern Munich
+Juan Mata; 31; Manchester United
+Juan Miranda; 19; Barcelona
+Julian Brandt; 23; Germany
+Julian Draxler; 25; Germany
+Julio Pleguezuelo; 22; Arsenal
+Jérôme Boateng; 30; Bayern Munich
+Kai Havertz; 20; Germany
+Karim Benzema; 31; Real Madrid
+Kepa Arrizabalaga; 24; Chelsea, Spain
+Kevin Boateng; 32; Barcelona
+Kevin Trapp; 28; Germany
+Keylor Navas; 32; Real Madrid
+Kilian Senkbeil; 20; Bayern Munich
+Kingsley Coman; 23; Bayern Munich, France
+Konstantinos Mavropanos; 21; Arsenal
+Kurt Zouma; 24; France
+Kyle Walker; 29; England
+Kylian Mbappe; 20; France
+Lars Mai; 19; Bayern Munich
+Laurent Koscielny; 33; Arsenal
+Lee Grant; 36; Manchester United
+Leo Dubois; 24; France
+Leon Goretzka; 24; Bayern Munich, Germany
+Leroy Sane; 23; Germany
+Lionel Messi; 31; Barcelona
+Luca Zidane; 21; Real Madrid
+Lucas Digne; 25; France
+Lucas Torreira; 23; Arsenal
+Lucas Vazquez; 27; Real Madrid
+Luis Antonio Valencia; 33; Manchester United
+Luis Suarez; 32; Barcelona
+Luka Modric; 33; Real Madrid
+Lukas Klostermann; 23; Germany
+Luke Shaw; 23; Manchester United
+Malcom; 22; Barcelona
+Manuel Neuer; 33; Bayern Munich, Germany
+Marc Guehi; 18; Chelsea
+Marc-André ter Stegen; 27; Barcelona
+Marcel Halstenberg; 27; Germany
+Marcelo; 31; Real Madrid
+Marcin Bulka; 19; Chelsea
+Marco Asensio; 23; Real Madrid, Spain
+Marco Reus; 30; Germany
+Marcos Alonso; 28; Chelsea
+Marcos Llorente; 24; Real Madrid
+Marcos Rojo; 29; Manchester United
+Marcus Rashford; 21; Manchester United, England
+Mariano Diaz; 25; Real Madrid
+Mario Hermoso; 23; Spain
+Mason Greenwood; 17; Manchester United
+Mateo Kovacic; 25; Chelsea
+Mats Hummels; 30; Bayern Munich
+Matteo Darmian; 29; Manchester United
+Matteo Guendouzi; 20; Arsenal
+Matthew Miazga; 23; Chelsea
+Matthias Ginter; 25; Germany
+Maximilian Franzke; 20; Bayern Munich
+Maximilian Zaiser; 20; Bayern Munich
+Meritan Shabani; 20; Bayern Munich
+Mesut Özil; 30; Arsenal
+Michael Keane; 26; England
+Mike Maignan; 23; France
+Mikel Oyarzabal; 22; Spain
+Moussa Sissoko; 29; France
+Moussa Wague; 20; Barcelona
+N'Golo Kante; 28; Chelsea
+Nacho; 29; Real Madrid
+Nacho Monreal; 33; Arsenal
+Nelson Semedo; 25; Barcelona
+Nemanja Matic; 30; Manchester United
+Nico Schulz; 26; Germany
+Niklas Stark; 24; Germany
+Niklas Süle; 23; Bayern Munich, Germany
+Oliver Meier; 18; Bayern Munich
+Olivier Giroud; 32; Chelsea, France
+Oriol Busquets; 20; Barcelona
+Ousmane Dembele; 22; Barcelona
+Pau Lopez; 24; Spain
+Paul Pogba; 26; Manchester United, France
+Paul Will; 20; Bayern Munich
+Pedro; 31; Chelsea
+Petr Cech; 37; Arsenal
+Phil Jones; 27; Manchester United
+Philippe Coutinho; 27; Barcelona
+Pierre-Emerick Aubameyang; 29; Arsenal
+Rafinha; 26; Barcelona, Bayern Munich
+Raheem Sterling; 24; England
+Raphael Varane; 26; Real Madrid, France
+Reece James; 19; Chelsea
+Renato Sanches; 21; Bayern Munich
+Resul Türkkalesi; 20; Bayern Munich
+Ricard Puig; 19; Barcelona
+Rob Holding; 23; Arsenal
+Robert Green; 39; Chelsea
+Robert Lewandowski; 30; Bayern Munich
+Rodri; 22; Spain
+Rodrigo Moreno; 28; Spain
+Romelu Lukaku; 26; Manchester United
+Ron Hoffmann; 20; Bayern Munich
+Ross Barkley; 25; Chelsea, England
+Ruben Loftus-Cheek; 23; Chelsea
+Samuel Umtiti; 25; Barcelona, France
+Santi Cazorla; 34; Spain
+Scott McTominay; 22; Manchester United
+Sead Kolasinac; 25; Arsenal
+Serge Gnabry; 23; Bayern Munich, Germany
+Sergi Roberto; 27; Barcelona, Spain
+Sergio Busquets; 30; Barcelona, Spain
+Sergio Ramos; 33; Real Madrid, Spain
+Sergio Reguilon; 22; Real Madrid
+Sergio Romero; 32; Manchester United
+Shkodran Mustafi; 27; Arsenal
+Sokratis; 31; Arsenal
+Stephan Lichtsteiner; 35; Arsenal
+Sven Ullrich; 22; Germany
+Sven Ulreich; 30; Bayern Munich, Germany
+Tahith Chong; 19; Manchester United
+Tanguy NDombèlé; 22; France
+Thiago Alcantara; 28; Bayern Munich
+Thibaut Courtois; 27; Real Madrid
+Thilo Kehrer; 22; Germany
+Thomas Lemar; 23; France
+Thomas Müller; 29; Bayern Munich
+Thomas Vermaelen; 33; Barcelona
+Timo Werner; 23; Germany
+Tom Heaton; 33; England
+Toni Kroos; 29; Real Madrid
+Trent Alexander-Arnold; 20; England
+Trevoh Chalobah; 19; Chelsea
+Tyreece John-Jules; 18; Arsenal
+Victor Lindelof; 24; Manchester United
+Vinicius Junior; 18; Real Madrid
+Willian; 30; Chelsea
+Willy Caballero; 37; Chelsea
+Wissam Ben Yedder; 28; France
+Zechariah Medley; 18; Arsenal
+Álex Collado; 20; Barcelona
+Álvaro Fidalgo; 22; Real Madrid
